@@ -1,0 +1,36 @@
+{
+  "name": "Roblox Template",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$path": "Source/Workspace"
+    },
+    "Lighting": {
+      "$path": "Source/Lighting"
+    },
+    "ReplicatedFirst": {
+      "$path": "Source/ReplicatedFirst"
+    },
+    "ReplicatedStorage": {
+      "$path": "Source/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "Source/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$path": "Source/ServerStorage"
+    },
+    "StarterGui": {
+      "$path": "Source/StarterGui"
+    },
+    "StarterPack": {
+      "$path": "Source/StarterPack"
+    },
+    "StarterPlayer": {
+      "$path": "Source/StarterPlayer"
+    },
+    "SoundService": {
+      "$path": "Source/SoundService"
+    }
+  }
+}
